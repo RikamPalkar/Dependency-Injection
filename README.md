@@ -1,2 +1,5 @@
 # Dependency Injection 
  What is Dependency Injection and What Are Its Types? How to implement DI?
+IOC and DI helps us to get rid of dependency from your code. Why should I use dependency injection?
+ 
+Let’s say we have a Smartphone class that contains various objects, such as Processor, Ram, OS, Storage, etc. In this situation, the Smartphone class is responsible for creating all dependency objects. Now, what if we decide to get rid of Snapdragon Processor in the future, and rather want to use a MediaTek Processor? We will need to recreate the Smartphone object with a new MediaTek dependency. However, when using dependency injection (DI), we can change the Processor at runtime because dependencies can be injected at runtime rather than at the compile time. We can think of DI as the intermediary in our code who does all the work of creating the preferred Processor object and providing it to the Smartphone class. It makes our Smartphone class independent from creating the objects of as Processor, Ram, OS, Storage, etc.
