@@ -1,0 +1,16 @@
+C:\Users\Rikam\source\repos\DIProject\Presentation\obj\Debug\netcoreapp2.1\Presentation.csprojAssemblyReference.cache
+C:\Users\Rikam\source\repos\DIProject\Presentation\obj\Debug\netcoreapp2.1\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Rikam\source\repos\DIProject\Presentation\obj\Debug\netcoreapp2.1\Presentation.AssemblyInfoInputs.cache
+C:\Users\Rikam\source\repos\DIProject\Presentation\obj\Debug\netcoreapp2.1\Presentation.AssemblyInfo.cs
+C:\Users\Rikam\source\repos\DIProject\Presentation\bin\Debug\netcoreapp2.1\Presentation.deps.json
+C:\Users\Rikam\source\repos\DIProject\Presentation\bin\Debug\netcoreapp2.1\Presentation.runtimeconfig.json
+C:\Users\Rikam\source\repos\DIProject\Presentation\bin\Debug\netcoreapp2.1\Presentation.runtimeconfig.dev.json
+C:\Users\Rikam\source\repos\DIProject\Presentation\bin\Debug\netcoreapp2.1\Presentation.dll
+C:\Users\Rikam\source\repos\DIProject\Presentation\bin\Debug\netcoreapp2.1\Presentation.pdb
+C:\Users\Rikam\source\repos\DIProject\Presentation\bin\Debug\netcoreapp2.1\BusinessLogic.dll
+C:\Users\Rikam\source\repos\DIProject\Presentation\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\Rikam\source\repos\DIProject\Presentation\bin\Debug\netcoreapp2.1\BusinessLogic.pdb
+C:\Users\Rikam\source\repos\DIProject\Presentation\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\Rikam\source\repos\DIProject\Presentation\obj\Debug\netcoreapp2.1\Presentation.csproj.CopyComplete
+C:\Users\Rikam\source\repos\DIProject\Presentation\obj\Debug\netcoreapp2.1\Presentation.dll
+C:\Users\Rikam\source\repos\DIProject\Presentation\obj\Debug\netcoreapp2.1\Presentation.pdb
